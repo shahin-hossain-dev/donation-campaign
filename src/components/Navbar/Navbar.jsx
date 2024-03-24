@@ -11,7 +11,7 @@ const Navbar = () => {
         <NavLink
           to={"/"}
           className={({ isActive }) =>
-            isActive && "text-red-500 font-semibold underline"
+            isActive ? "text-red-500 font-semibold underline" : ""
           }
         >
           Home
@@ -19,7 +19,7 @@ const Navbar = () => {
         <NavLink
           to={"/donation"}
           className={({ isActive }) =>
-            isActive && "text-red-500 font-semibold underline"
+            isActive ? "text-red-500 font-semibold underline" : ""
           }
         >
           Donation
@@ -27,7 +27,7 @@ const Navbar = () => {
         <NavLink
           to={"/statistics"}
           className={({ isActive }) =>
-            isActive && "text-red-500 font-semibold underline"
+            isActive ? "text-red-500 font-semibold underline" : ""
           }
         >
           Statistics
