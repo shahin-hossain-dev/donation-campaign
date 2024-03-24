@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "picture": "https://imgdb.net/storage/uploads/e0502503f070eb14a2d5624c179db69807fd6a700f12a81996cae03c44a07c52.png",
+      "title": "Vintage Watch",
+      "category": "Education",
+      "category_bg": "#FF5733",
+      "card_bg": "#F5F5F5",
+      "text_button_bg": "#333333",
+      "description": "An elegant vintage watch with a leather strap.",
+      "price": "$99.99"
+    },
+    {
+      "id": 2,
+      "picture": "https://imgdb.net/storage/uploads/fcb0696c8a29f4eb9146dc7f15ef0884522c598f1c7898acdcfb7db3821e5927.png",
+      "title": "Handcrafted Necklace",
+      "category": "Food",
+      "category_bg": "#8A2BE2",
+      "card_bg": "#FFFFFF",
+      "text_button_bg": "#4CAF50",
+      "description": "A beautifully handcrafted necklace with gemstones.",
+      "price": "$149.99"
+    },
+    {
+      "id": 3,
+      "picture": "https://imgdb.net/storage/uploads/194e1355112fbe77b9bc18c1889ffa5930f55099094c0914e4d19b333fc28a6a.png",
+      "title": "Leather Bag",
+      "category": "Health",
+      "category_bg": "#FF4500",
+      "card_bg": "#EDEDED",
+      "text_button_bg": "#008080",
+      "description": "A stylish leather bag perfect for everyday use.",
+      "price": "$129.99"
+    },
+    {
+      "id": 4,
+      "picture": "image4.jpg",
+      "title": "Canvas Shoes",
+      "category": "Footwear",
+      "category_bg": "#4682B4",
+      "card_bg": "#FAEBD7",
+      "text_button_bg": "#DC143C",
+      "description": "Comfortable canvas shoes for casual outings.",
+      "price": "$59.99"
+    },
+    {
+      "id": 5,
+      "picture": "image5.jpg",
+      "title": "Denim Jacket",
+      "category": "Clothing",
+      "category_bg": "#FFA500",
+      "card_bg": "#F0FFF0",
+      "text_button_bg": "#8B008B",
+      "description": "A classic denim jacket perfect for any season.",
+      "price": "$79.99"
+    },
+    {
+      "id": 6,
+      "picture": "image6.jpg",
+      "title": "Crystal Earrings",
+      "category": "Jewelry",
+      "category_bg": "#FF1493",
+      "card_bg": "#FFE4E1",
+      "text_button_bg": "#000080",
+      "description": "Exquisite crystal earrings to add sparkle to your look.",
+      "price": "$89.99"
+    },
+    {
+      "id": 7,
+      "picture": "image7.jpg",
+      "title": "Smartwatch",
+      "category": "Electronics",
+      "category_bg": "#00CED1",
+      "card_bg": "#F0FFFF",
+      "text_button_bg": "#FFD700",
+      "description": "A feature-packed smartwatch for tech enthusiasts.",
+      "price": "$199.99"
+    },
+    {
+      "id": 8,
+      "picture": "image8.jpg",
+      "title": "Leather Wallet",
+      "category": "Accessories",
+      "category_bg": "#A52A2A",
+      "card_bg": "#FFF5EE",
+      "text_button_bg": "#7CFC00",
+      "description": "A sleek leather wallet with multiple compartments.",
+      "price": "$49.99"
+    },
+    {
+      "id": 9,
+      "picture": "image9.jpg",
+      "title": "Sunglasses",
+      "category": "Accessories",
+      "category_bg": "#808080",
+      "card_bg": "#F8F8FF",
+      "text_button_bg": "#FF6347",
+      "description": "Trendy sunglasses to protect your eyes in style.",
+      "price": "$39.99"
+    },
+    {
+      "id": 10,
+      "picture": "image10.jpg",
+      "title": "Fitness Tracker",
+      "category": "Electronics",
+      "category_bg": "#32CD32",
+      "card_bg": "#F5F5DC",
+      "text_button_bg": "#191970",
+      "description": "Stay fit and motivated with this advanced fitness tracker.",
+      "price": "$79.99"
+    },
+    {
+      "id": 11,
+      "picture": "image11.jpg",
+      "title": "Messenger Bag",
+      "category": "Bags",
+      "category_bg": "#696969",
+      "card_bg": "#F0E68C",
+      "text_button_bg": "#8B0000",
+      "description": "A versatile messenger bag for work or travel.",
+      "price": "$69.99"
+    },
+    {
+      "id": 12,
+      "picture": "image12.jpg",
+      "title": "Laptop Sleeve",
+      "category": "Accessories",
+      "category_bg": "#483D8B",
+      "card_bg": "#FFFFF0",
+      "text_button_bg": "#228B22",
+      "description": "Protect your laptop in style with this sleek sleeve.",
+      "price": "$29.99"
+    }
+  ]
+  
